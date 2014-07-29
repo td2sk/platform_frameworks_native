@@ -31,6 +31,8 @@
 
 #include <hardware/gralloc.h>
 
+#include <cutils/log.h>
+
 #include "DisplayHardware/DisplaySurface.h"
 #include "DisplayHardware/HWComposer.h"
 #include "RenderEngine/RenderEngine.h"
